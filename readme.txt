@@ -9,7 +9,7 @@ Ball-to-ball collision detection and response (elastic collisions)
 Requirements
 
 Visual Studio 2022
-SFML 3
+SFML 3 https://www.sfml-dev.org/download/sfml/3.0.2/
 C++17 or later
 
 Setup
