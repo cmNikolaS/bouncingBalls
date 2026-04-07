@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BALLPHYSICS/BALLPHYSICS.vcxproj" Id="8920dbc0-e3b8-4a6c-a440-5603e3e8f0ee" />
+</Solution>
